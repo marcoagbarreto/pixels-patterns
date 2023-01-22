@@ -3,11 +3,11 @@
 This is a program to generate random pixel patterns.
 Random patterns are useful in computer vision by serving as markers for orienting objects in 3D space.
 * If you want to check out the stand-alone version, visit **[pixelsPatterns.exe](https://github.com/marcoagbarreto/pixelsPatterns.exe)**
-* For the live version try it **[here]()**
+* [Click here for the live version](https://pixels-patterns.onrender.com/generate)
 
 ## Example
 
-1. Run [pixels-patterns]().
+1. Run [pixels-patterns](https://pixels-patterns.onrender.com/generate).
 2. Hit Generate.
 3. Profit.
 4. Save the image.
